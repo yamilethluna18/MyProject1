@@ -1,0 +1,39 @@
+# UNREAL ENGINE 
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+
+# IDE / VISUAL STUDIO
+.vs/
+.vscode/
+*.sln
+*.opensdf
+*.sdf
+*.log
+*.tmp
+*.VC.db
+
+# SISTEMA
+.DS_Store
+Thumbs.db
+
+# ARCHIVOS COMPILADOS
+*.exe
+*.dll
+*.obj
+*.pdb
+
+# CARPETAS PESADAS 
+Content/StarterContent/
+Content/ThirdPersonBP/Environment/hojas/
+
+# (opcional si pesa mucho)
+Content/ThirdPersonBP/Environment/pasto/Atlas.uasset
+Content/ThirdPersonBP/Environment/pasto/Billboard.uasset
+
+# NO IGNORAR ESTO 
+!Content/
+!Config/
+!*.uproject
