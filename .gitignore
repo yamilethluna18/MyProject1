@@ -37,3 +37,5 @@ Content/ThirdPersonBP/Environment/pasto/Billboard.uasset
 !Content/
 !Config/
 !*.uproject
+
+*BuiltData.uasset
